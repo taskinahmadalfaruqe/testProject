@@ -8,6 +8,9 @@ const Button = () => {
         <button className="bg-indigo-500 hover:bg-indigo-400 duration-300 text-white font-medium rounded-md p-2 px-4 active:scale-95">
           Button
         </button>
+        <button className="bg-indigo-500 hover:bg-indigo-400 duration-300 text-white font-medium rounded-md p-2 px-4 active:scale-95">
+          Button
+        </button>
       </div>
       <p>this is one line</p>
       <p>this is one line too</p>
